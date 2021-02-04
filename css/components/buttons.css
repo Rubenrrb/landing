@@ -1,0 +1,17 @@
+.btn-medium {
+    background-color: rgb(255, 98, 190);
+    color: white;
+    opacity: 1;
+    border: rgb(65, 253, 253) 2px solid;
+    border-radius: 50px;
+    padding: 14px 32px;
+    display: inline-table;
+    transition: .5s;
+}
+
+.btn-medium:hover {
+        color: white;
+        opacity: 1;
+        background:rgb(255, 73, 179);
+        transition: .5s;
+}
